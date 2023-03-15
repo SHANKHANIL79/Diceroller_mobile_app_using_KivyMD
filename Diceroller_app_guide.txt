@@ -17,6 +17,10 @@ Step 2:-
     You should keep the files "diceroll.gif" and "Diceroller.py" on 
 the same folder in order to run the app.
 
+Step 3:-
+     After that you have to run the Diceroller.py
+
+
 Note: I have downloaded the Gif (diceroll.gif) from google to make my first mobile application more attractive.
 Again this mobile application is made for educational purpose only...
 
