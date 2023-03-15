@@ -1,0 +1,24 @@
+Hii, this is my first mobile application using kivyMD Framework.
+I have created this application for educational purpose only.
+
+This application is all about a dice roller for a game like LUDO.
+
+The apk file for this app is not available for now, but soon
+I will try to update repository with the apk file.
+
+To check and test this application in your device, you should have to 
+follow the steps below:
+
+Step 1:-
+	1. Python.
+	2. Kivy Framework.
+	3. KivyMD Framework.
+Step 2:-
+    You should keep the files "diceroll.gif" and "Diceroller.py" on 
+the same folder in order to run the app.
+
+Note: I have downloaded the Gif (diceroll.gif) from google to make my first mobile application more attractive.
+Again this mobile application is made for educational purpose only...
+
+Thank You...
+
